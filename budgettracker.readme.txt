@@ -1,0 +1,39 @@
+ST10113403
+Prog7313
+
+BudgetTrackerApp
+
+BudgetTrackerApp is an Android application built to help users track their budget, expenses, and financial goals. The app allows users to manage categories, track entries, and set financial goals. It provides a user-friendly interface for budgeting and is designed to be simple and intuitive.
+
+
+
+Features
+
+- User Authentication: Users can register, log in, and manage their account details.
+- Categories: Users can create and manage expense categories (e.g., Food, Transportation, Utilities).
+- Entries: Users can log their expenses and track spending in various categories.
+- Goals: Users can set financial goals to help with savings or other financial targets.
+- SQLite Database: The app uses Room Database to store user data persistently.
+ 
+Technologies Used
+
+- Kotlin: The app is built using Kotlin, the official programming language for Android development.
+- Android Jetpack: Using Room for local database management and lifecycle-aware components.
+- GitHub Actions: Automating builds and tests with GitHub Actions for continuous integration and delivery.
+ 
+
+Installation
+
+To run this project on your local machine, follow the steps below:
+
+1. Clone the repository
+
+Clone this repository to your local machine:
+
+bash
+git clone https://github.com/yourusername/budgettrackerapp.git
+
+Build software better, together
+GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.
+github.com
+
